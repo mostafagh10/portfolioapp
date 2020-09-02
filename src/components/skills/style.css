@@ -1,0 +1,59 @@
+.Skills{
+    text-align: center;
+}
+.skillscard{
+    border: 4px solid rgb(32, 32, 32) !important;
+    box-shadow: 1px 1px 20px rgb(39, 38, 38);
+    transition: all 0.3s ease-in-out;
+}
+.loader {
+    margin: auto;
+    border:18px solid black;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    animation: changing 3s infinite ease-in-out;
+  }
+  @keyframes changing{
+    0%{
+      border-color: rgb(106, 32, 167);
+  }
+  25%{
+    border-color: rgb(59, 58, 59);
+  }
+  50%{
+    border-color: rgb(131, 126, 126);
+  }
+  75%{
+    border-color: rgb(59, 58, 59);
+  }
+  100%{
+    border-color: rgb(106, 32, 167);
+  }
+  }
+  @-webkit-keyframes changing{
+    0%{
+      border-color: rgb(106, 32, 167);
+  }
+  50%{
+    border-color: rgb(104, 102, 105);
+  }
+  100%{
+    border-color: rgb(106, 32, 167);
+  }
+  }
+  .power{
+      margin-top: 20px;
+  }
+
+  .skillstitle{
+      color: rgb(140, 41, 221);
+      letter-spacing: 10px;
+  }
+  .skillsname{
+      font-weight: bold;
+  }
+  .skillscard:hover{
+    transform: scale(1.1,1.1);
+    color: rgb(140, 41, 221);
+}

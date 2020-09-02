@@ -1,0 +1,68 @@
+.header{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: black;
+    position: relative;
+}
+.videoedit{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.videoedit video{
+    min-width: 100%;
+    min-height: 100%;
+}
+/*
+.overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(70, 60, 60);
+    opacity: 0.6;
+}
+*/
+.content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    font-weight: bold;
+}
+.homeheader{
+    margin-top: 150px;
+}
+.homebutton{
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    background: none;
+    color: rgb(140, 41, 221);
+    border: 2px solid white;
+    transition: all 0.3s ease-in-out;
+}
+.homebutton:hover{
+    color: white;
+    background-color: rgb(140, 41, 221);
+}
+.homeheader,.homeheader2,.homebutton2{
+    display: none;
+}

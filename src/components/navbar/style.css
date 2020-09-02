@@ -1,0 +1,41 @@
+.Nav{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+.navbar{
+    /*background-color: rgb(58, 57, 57);*/
+    background: none;
+}
+.navbar-nav{
+    text-align: center;
+}
+.nav-link{
+    color: white;
+    margin-right: 25px;
+    font-weight: 500;
+}
+.nav-link:hover{
+    color: rgb(140, 41, 221);
+}
+.navtwo{
+    color: white;
+    font-size: 25px;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.navthree{
+    color: rgb(140, 41, 221);
+}
+.navbar-brand:hover{
+    color: white;
+}
+#isactive a a{
+    color: rgb(140, 41, 221);
+}

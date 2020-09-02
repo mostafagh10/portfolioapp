@@ -1,0 +1,213 @@
+{
+    "skills":[
+        {
+            "id":1,
+            "name":"HTML",
+            "power":95
+        },
+        {
+            "id":2,
+            "name":"CSS",
+            "power":90
+        },
+        {
+            "id":3,
+            "name":"HTML5",
+            "power":90
+        },
+        {
+            "id":4,
+            "name":"CSS3",
+            "power":85
+        },
+        {
+            "id":5,
+            "name":"JAVASCRIPT",
+            "power":80
+        },
+        {
+            "id":6,
+            "name":"JS DOM",
+            "power":80
+        },
+        {
+            "id":7,
+            "name":"JS BOM",
+            "power":80
+        },
+        {
+            "id":8,
+            "name":"JQUERY",
+            "power":80
+        },
+        {
+            "id":9,
+            "name":"BOOTSTRAP4",
+            "power":90
+        },
+        {
+            "id":10,
+            "name":"SASS",
+            "power":85
+        },
+        {
+            "id":11,
+            "name":"AJAX",
+            "power":80
+        },
+        {
+            "id":12,
+            "name":"JSON",
+            "power":90
+        },
+        {
+            "id":13,
+            "name":"GIT",
+            "power":85
+        },
+        {
+            "id":14,
+            "name":"REACT.JS",
+            "power":80
+        },
+        {
+            "id":15,
+            "name":"REACT.JS & REDUX",
+            "power":80
+        }
+    ],
+    "jsprojects":[
+        {
+            "id":1,
+            "name" : "student card calcualtor",
+            "image":"pr8.png",
+            "link":"https://mostafagh10.github.io/studentgradecalculator/"
+        },
+        {
+            "id":2,
+            "name" : "play music",
+            "image":"pr9.png",
+            "link":"https://mostafagh10.github.io/playmusic/"
+        }
+    ],
+    "reactproject":[
+            {
+                "id":1,
+                "name" : "LOGO website",
+                "image":"pr1.png",
+                "link":"https://mostafagh10.github.io/project1end/"
+            },
+            {
+                "id":2,
+                "name" : "portfolio website",
+                "image":"pr2.png",
+                "link":"https://mostafagh10.github.io/project2/"
+            },
+            {
+                "id":3,
+                "name" : "simple log in system",
+                "image":"pr3.png",
+                "link":"https://mostafagh10.github.io/simple-login-system/"
+            }
+    ],
+    "reactappprojects":[
+        {
+            "id":1,
+            "name" : "TODO-LIST app",
+            "image":"pr4.png",
+            "link":"https://mostafagh10.github.io/todolist-app/"
+        },
+        {
+            "id":3,
+            "name" : "covid-19 app",
+            "image":"pr6.png",
+            "link":"https://mostafagh10.github.io/covid19-app/"
+        },
+        {
+            "id":4,
+            "name" : "covid-19 sorting app",
+            "image":"pr7.png",
+            "link":"https://mostafagh10.github.io/covid-app2/"
+        },
+        {
+            "id":5,
+            "name":"REMINDER APP with sfcookies",
+            "image":"pr10.png",
+            "link":"https://mostafagh10.github.io/Reminder-app/"
+        }
+    ],
+    "all":[
+        {
+            "id":1,
+            "name" : "LOGO website",
+            "image":"pr1.png",
+            "link":"https://mostafagh10.github.io/project1end/"
+        },
+        {
+            "id":2,
+            "name" : "portfolio website",
+            "image":"pr2.png",
+            "link":"https://mostafagh10.github.io/project2/"
+        },
+        {
+            "id":3,
+            "name" : "simple log in system",
+            "image":"pr3.png",
+            "link":"https://mostafagh10.github.io/simple-login-system/"
+        },
+        {
+            "id":4,
+            "name" : "TODO-LIST app",
+            "image":"pr4.png",
+            "link":"https://mostafagh10.github.io/todolist-app/"
+        },
+        {
+            "id":6,
+            "name" : "covid-19 app",
+            "image":"pr6.png",
+            "link":"https://mostafagh10.github.io/covid19-app/"
+        },
+        {
+            "id":7,
+            "name" : "covid-19 sorting app",
+            "image":"pr7.png",
+            "link":"https://mostafagh10.github.io/covid-app2/"
+        },
+        {
+            "id":10,
+            "name":"REMINDER APP with sfcookies",
+            "image":"pr10.png",
+            "link":"https://mostafagh10.github.io/Reminder-app/"
+        },
+        {
+            "id":8,
+            "name" : "student card calcualtor",
+            "image":"pr8.png",
+            "link":"https://mostafagh10.github.io/studentgradecalculator/"
+        },
+        {
+            "id":9,
+            "name" : "play music",
+            "image":"pr9.png",
+            "link":"https://mostafagh10.github.io/playmusic/"
+        }
+    ],
+    "contact":[
+        {
+            "icon":"mobile-alt",
+            "name":"Phone",
+            "details":"+20 1153611604"
+        },
+        {
+            "icon":"envelope",
+            "name":"E-mail",
+            "details":"ghazalymostafa07@gmail.com"
+        },
+        {
+            "icon":"map-marker-alt",
+            "name":"Address",
+            "details":"Zahraa-Elmaadi Cairo - EGYPT"
+        }
+
+    ]
+}

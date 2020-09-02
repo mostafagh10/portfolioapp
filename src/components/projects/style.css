@@ -1,0 +1,60 @@
+#projecttwo{
+    position: relative;
+}
+.projectcard{
+    margin-top: 10px;
+    position: relative;
+}
+.card2{
+    height: 200px;
+}
+.Projects{
+    text-align: center;
+}
+.Projects button{
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    background: none;
+    color: white;
+    border: 1px solid rgb(83, 28, 138);
+    transition: all 0.3s ease-in-out;
+    margin-top: 10px;
+}
+.Projects button:hover{
+    color: rgb(140, 41, 221);
+    border: 1px solid white;
+}
+.over{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(70, 67, 67);
+    text-align: center;
+    padding: 30px;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    height: 0%;
+}
+.over button{
+    width: 170px;
+    height: 50px;
+    background-color: rgb(140, 41, 221);
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: white;
+    transition: all 0.3s ease-in-out;
+}
+.over button:hover{
+    background-color: black;
+    color: rgb(140, 41, 221);
+}
+.projectcard:hover{
+    cursor: pointer;
+}
+.projectcard:hover .over{
+    opacity: 0.95;
+    height: 100%;
+}
